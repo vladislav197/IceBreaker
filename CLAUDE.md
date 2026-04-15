@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Pull Request Rules
 Always create pull requests targeting vladislav197/IceBreaker.
 Never target emarco177/IceBreaker (upstream).
-never do that
+Never do that
 
 ## Project Overview
 
