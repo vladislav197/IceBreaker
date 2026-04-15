@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Pull Request Rules
+Always create pull requests targeting vladislav197/IceBreaker.
+Never target emarco177/IceBreaker (upstream).
+
 ## Project Overview
 
 Ice Breaker is a Flask-based web application that generates personalized conversation starters by analyzing LinkedIn and Twitter profiles using LangChain and OpenAI.
